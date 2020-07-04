@@ -1,3 +1,9 @@
+0.0.0.0 hileonline.net
+0.0.0.0 www.hileonline.net
+0.0.0.0 hileonline.com
+0.0.0.0 www.hileonline.com
+0.0.0.0 hileonline.org
+0.0.0.0 www.hileonline.org
 0.0.0.0 hileplus.net
 0.0.0.0 www.hileplus.net
 0.0.0.0 hileplus.com
@@ -43,6 +49,10 @@
 0.0.0.0 www.realitycheats.org
 0.0.0.0 samcheats.com
 0.0.0.0 www.samcheats.com
+0.0.0.0 samcheats.net
+0.0.0.0 www.samcheats.net
+0.0.0.0 samcheats.org
+0.0.0.0 www.samcheats.org
 0.0.0.0 realui.xyz
 0.0.0.0 www.realui.xyz
 0.0.0.0 obersayteam.com
