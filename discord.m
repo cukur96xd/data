@@ -1,1 +1,1 @@
-http://127.0.0.1/
+discord.gg/BDeZ3dZ
