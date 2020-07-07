@@ -1,3 +1,9 @@
+0.0.0.0 apathe.net
+0.0.0.0 www.apathe.net
+0.0.0.0 apathe.com
+0.0.0.0 www.apathe.com
+0.0.0.0 apathe.org
+0.0.0.0 www.apathe.org
 0.0.0.0 hileonline.net
 0.0.0.0 www.hileonline.net
 0.0.0.0 hileonline.com
